@@ -30,11 +30,16 @@
 <p>If done correctly, the program should output:</p>
 
 <code>
-	====================
-	circumcenter: (1.5, 0.5)
-	circumcircle radius: 4.949747
-	====================
-	Thank you for using Lachi Balabanski's triangle program
+====================
+	
+circumcenter: (1.5, 0.5)
+
+circumcircle radius: 4.949747
+
+====================
+
+Thank you for using Lachi Balabanski's triangle program
+
 </code>
 
 <p>Thank you for using my triangle repository!</p>
