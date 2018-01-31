@@ -29,17 +29,18 @@
 
 <p>If done correctly, the program should output:</p>
 
+![Alt text](sample_output.png?raw=true "Title")
+
 <code>
-====================
-	
-circumcenter: (1.5, 0.5)
+	====================
 
-circumcircle radius: 4.949747
+	circumcenter: (1.5, 0.5)
 
-====================
+	circumcircle radius: 4.949747
 
-Thank you for using Lachi Balabanski's triangle program
+	====================
 
+	Thank you for using Lachi Balabanski's triangle program
 </code>
 
-<p>Thank you for using my triangle repository!</p>
+<p>Thank you for using my triangle centers repository!</p>
