@@ -32,6 +32,7 @@
 ![Alt text](sample_output.png?raw=true "Title")
 
 <code>
+	
 	====================
 
 	circumcenter: (1.5, 0.5)
