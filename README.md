@@ -29,7 +29,7 @@
 
 <p>If done correctly, the program should output:</p>
 
-![Alt text](sample_output.png?raw=true "Title")
+<img src="/sample_output.png" width=500 height=500>
 
 <code>
 	
